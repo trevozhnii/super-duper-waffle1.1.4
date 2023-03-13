@@ -1,0 +1,13 @@
+<application>
+  <component name="Plugin-Config">
+    <option name="idleMemeDisplayAnchorValue" value="BOTTOM_RIGHT" />
+    <option name="memeDisplayAnchorValue" value="BOTTOM_RIGHT" />
+    <option name="memeVolume" value="0" />
+    <option name="minimalMode" value="true" />
+    <option name="preferredCharacters" value="1fj9ftjml,1fj4hfh2h,1fjg5l3ol,1fk38t257,1f07hd8o9,1g0npagld,1fo6b3lru,1evlh07m1,1fo6b5hcq,1er2qggrg,1g31fvqm5,1g31g09nq,1esou12oh,1f0pglqss,1er06s17n,1fmj2hvlh,1fk37vgfc,1eqq66ovv,1eqq2ngov,1f2fdg4qv,1f2fdevoo,1f2fdibjv,1f2fdhmv7,1f2fdk34t,1g31fnvlm,1g31ft5g7,1g31fo8pu,1et4kgfvv,1f4vdhq17,1g871ursr,1fo6av1kq,1fj4hbpv7,1eqqbsm68,1fo6ata8k,1eqq4gn91,1eqq4glbg,1flbtcvdc,1er07e2lu,1eribtcnp,1essssh64,1eribt1d8,1eriboc5q,1eqvqt4vr,1eqvqta4m,1eqvqtga9,1fn4h26oa,1fr292uma,1g1tld5qb,1g1tla3l0,1g1tjactv,1g1tlbmpa,1fmj29neo,1fo6b0s8g,1f7ef78r4,1f7eg290e,1f7egujs9,1f7eg1n4l,1f7egqpar,1g871qf2u" />
+    <option name="preferredGenders" value="6" />
+    <option name="soundEnabled" value="false" />
+    <option name="userId" value="db112731-331a-4123-a35c-d1ab384025a2" />
+    <option name="version" value="1.1.6" />
+  </component>
+</application>
