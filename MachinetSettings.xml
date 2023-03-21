@@ -1,0 +1,30 @@
+<application>
+  <component name="com.github.evgenys91.machinet.common.feedback.FeedbackState">
+    <option name="feedbackDTOByID">
+      <map>
+        <entry key="UserDaoTest.java_getUserByIdWhenUserIdIsValid">
+          <value>
+            <FeedbackDTO>
+              <option name="myFileName" value="UserDaoTest.java" />
+              <option name="myMethodName" value="getUserByIdWhenUserIdIsValid" />
+              <option name="myCode" value="@Test&#10;    @DisplayName(&quot;should return the user when the user id is valid&quot;)&#10;    void getUserByIdWhenUserIdIsValid() {&#10;        User user = new User(&quot;John&quot;, &quot;Smith&quot;, &quot;john@smith.com&quot;);&#10;        when(userDao.getUserById(1L)).thenReturn(user);&#10;&#10;        User result = userDao.getUserById(1L);&#10;&#10;        assertEquals(user, result);&#10;    }" />
+              <option name="myGeneratedDate" value="1679371708640" />
+              <option name="myRequestId" value="73660c" />
+            </FeedbackDTO>
+          </value>
+        </entry>
+        <entry key="UserDaoTest.java_getUserByIdWhenUserIdNotFound">
+          <value>
+            <FeedbackDTO>
+              <option name="myFileName" value="UserDaoTest.java" />
+              <option name="myMethodName" value="getUserByIdWhenUserIdNotFound" />
+              <option name="myCode" value="@Test&#10;    @DisplayName(&quot;should return null when the user id is not found&quot;)&#10;    void getUserByIdWhenUserIdNotFound() {&#10;        Long id = 1L;&#10;        when(userDao.getUserById(id)).thenReturn(null);&#10;        assertNull(userDao.getUserById(id));&#10;    }" />
+              <option name="myGeneratedDate" value="1679371708640" />
+              <option name="myRequestId" value="73660c" />
+            </FeedbackDTO>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
